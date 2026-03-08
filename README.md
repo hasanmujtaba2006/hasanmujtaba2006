@@ -48,10 +48,14 @@ I'm a B.Tech CSE student at Invertis University, driven by a passion for solving
 
 ### 📈 GitHub Analytics
 
-[![Hasan's Stats](https://github-readme-stats.vercel.app/api?username=hasanmujtaba2006&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/hasanmujtaba2006)
-    
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanmujtaba2006&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/hasanmujtaba2006)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasanmujtaba2006&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=hasanmujtaba2006&theme=tokyonight&no-bg=true&column=7)](https://github.com/hasanmujtaba2006)
+<p align="center">
+  <img src="https://github-readme-activity-graph.demo.maciek.cc/graph?username=hasanmujtaba2006&theme=tokyo-night&hide_border=true&bg_color=1a1b26" alt="GitHub Activity Graph" width="100%" />
+</p>
 
-[![Views](https://komarev.com/ghpvc/?username=hasanmujtaba2006&label=Profile%20Views&color=1a1b26&style=flat-square)](https://github.com/hasanmujtaba2006)
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=hasanmujtaba2006&label=Profile%20Views&color=1a1b26&style=flat-square" alt="Views" />
+</p>
