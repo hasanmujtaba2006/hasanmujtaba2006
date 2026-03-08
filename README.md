@@ -1,49 +1,64 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Hi,%20I'm%20Hasan%20Mujtaba&fontSize=50&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=220&section=header&text=Hasan%20Mujtaba&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20%7C%20Tech%20Enthusiast&descAlignY=55&descAlign=50" width="100%" />
 
-  ### 🚀 Aspiring Software Engineer & Tech Enthusiast
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Frontend+Developer;IoT+Enthusiast;CS+Student+@+Invertis;Startup+Founder+In-Progress)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3670A0&center=true&vCenter=true&width=500&lines=Building+IoT+Solutions;Crafting+Web+Experiences;Data+Science+Enthusiast;Future+Tech+Founder)](https://git.io/typing-svg)
 
   <p align="center">
-    <a href="mailto:hasanmujtaba.q@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://linkedin.com/in/hasan-mujtaba-55b87037b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://instagram.com/iamhasan.exe"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+    <a href="mailto:hasanmujtaba.q@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://linkedin.com/in/hasan-mujtaba-55b87037b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://discord.gg/mHprSFwT"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   </p>
 </div>
 
+<br/>
+
+### 👨‍💻 About Me
+I'm a B.Tech CSE student at Invertis University, driven by a passion for solving real-world problems through code. Whether I'm tinkering with microcontrollers or designing seamless web interfaces, I love bringing ideas to life.
+
+- 🔭 **Currently Building:** A smart book-scanning application for digitizing and formatting physical books.
+- 🌱 **Currently Learning:** Deepening my knowledge in **Data Science** and advanced **C Programming**.
+- 🎯 **Goals:** To launch my own tech startup and build accessible software tools.
+- ⚡ **Fun Fact:** *I think I am funny (my compiler usually disagrees).*
+
 ---
 
-### 📖 About Me
-- 🎓 Pursuing **B.Tech CSE** at Invertis University.
-- 🛠️ Currently mastering **C Programming** and building **IoT projects**.
-- 💡 Passionate about **Data Science** and building tech for social good.
-- ⚡ Fun fact: *I think I am funny (my code usually agrees).*
+### 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **Majmua Aamaal** | A sleek, responsive web application providing a curated digital collection of Islamic supplications and daily practices. | HTML, CSS, JavaScript |
+| **IoT Smart Parking System** | A comprehensive team project utilizing hardware sensors to automate and monitor parking spaces in real-time. | C, Arduino, IoT Sensors |
+| **Gate Scanner System** | An automated entry-logging system using barcode scanning, integrated with a live Google Sheets database for instant record-keeping. | Python, Flask, Google Sheets |
 
 ---
 
 ### 🛠️ Tech Stack & Tools
-<div align="left">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+<div align="center">
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <br/>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
 </div>
 
 ---
 
-### 📊 My Github Stats
+### 📈 GitHub Analytics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasanmujtaba2006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Hasan's Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanmujtaba2006&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hasanmujtaba2006&show_icons=true&theme=react&hide_border=true&count_private=true" alt="Hasan's Stats" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanmujtaba2006&layout=compact&theme=react&hide_border=true" alt="Top Languages" height="160px" />
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hasanmujtaba2006&theme=tokyonight&no-bg=true&column=7" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hasanmujtaba2006&theme=react&no-bg=true&column=7&margin-w=15" alt="Trophies" />
 </div>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=hasanmujtaba2006&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Views" />
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=hasanmujtaba2006&label=Profile%20Views&color=3670A0&style=flat-square" alt="Views" />
 </p>
