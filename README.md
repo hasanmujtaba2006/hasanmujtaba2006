@@ -48,14 +48,14 @@ I'm a B.Tech CSE student at Invertis University, driven by a passion for solving
 
 ### 📈 GitHub Analytics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasanmujtaba2006&show_icons=true&theme=react&hide_border=true&count_private=true" alt="Hasan's Stats" height="160px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanmujtaba2006&layout=compact&theme=react&hide_border=true" alt="Top Languages" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hasanmujtaba2006&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Hasan's Stats" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanmujtaba2006&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="160px" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hasanmujtaba2006&theme=react&no-bg=true&column=7&margin-w=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hasanmujtaba2006&theme=radical&no-bg=true&column=7&margin-w=15" alt="Trophies" />
 </div>
 
 <p align="center"> 
