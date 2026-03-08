@@ -53,9 +53,10 @@ I'm a B.Tech CSE student at Invertis University, driven by a passion for solving
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.demo.maciek.cc/graph?username=hasanmujtaba2006&theme=tokyo-night&hide_border=true&bg_color=1a1b26" alt="GitHub Activity Graph" width="100%" />
+  <img src="https://ghchart.rshah.org/0e75b6/hasanmujtaba2006" alt="Hasan's Contribution Chart" />
 </p>
 
 <p align="center"> 
+  <br/>
   <img src="https://komarev.com/ghpvc/?username=hasanmujtaba2006&label=Profile%20Views&color=1a1b26&style=flat-square" alt="Views" />
 </p>
